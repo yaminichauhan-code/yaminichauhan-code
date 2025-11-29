@@ -52,7 +52,7 @@ Here are some projects I’m building (and breaking… and fixing again):
 
 ## 🌐 Find Me Around  
 - 💼 LinkedIn:  https://www.linkedin.com/in/yamini-chauhan-/
-- 🎨 Figma: Yamini – Figma
+- 🎨 Figma: https://www.figma.com/@yamini25
 
 ---
 
